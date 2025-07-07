@@ -1,6 +1,6 @@
-# 🎵 Shazam-like Music Recognition System
+# 🎵 TuneTrancer - Music Recognition System
 
-A Python implementation of a Shazam-like music recognition system that can identify songs by analyzing their audio fingerprints.
+A Python implementation of a music recognition system that can identify songs by analyzing their audio fingerprints.
 
 ## Features
 
@@ -204,9 +204,6 @@ shazam/
 - [Audio Fingerprinting with Python](https://github.com/worldveil/dejavu)
 - [Spectral Peak Detection](https://en.wikipedia.org/wiki/Peak_detection)
 
-## License
-
-This project is for educational purposes. Please respect copyright laws when using with copyrighted music.
 
 ## Contributing
 
